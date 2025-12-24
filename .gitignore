@@ -1,0 +1,8 @@
+*.zstd
+venv
+step*
+mesh*
+.ipynb*
+*.tar.bz2
+wget-log
+gpt2-japanese
